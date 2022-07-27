@@ -6,7 +6,14 @@ app/*/*/*/__pycache__/
 .env/
 .venv/
 venv/
-*.cpp
+
+.ipynb_checkpoints/
+.vscode/
+.cpp
+
+# java
+.idea
 
 # files
 SystemDesign.pdf
+Mastering+the+Coding+Interview.pdf
